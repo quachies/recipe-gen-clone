@@ -1,1 +1,1 @@
-# recipe-gen-clone
+# recipe-generator
